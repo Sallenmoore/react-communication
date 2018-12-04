@@ -8,9 +8,7 @@ To start:
     * Open `localhost:3000` to display your webapp
 
 Learn React in `n` easy steps.
-1. Alter the existing app to create a component that displays "Hello World"
-2. Create 3 additional components that are rendered by your root component
-    * Hero Component with a title
-    * Body component with lorem ipsum text
-        * I recommend this: https://slipsum.com/lite/
-    * Footer component with a nice message
+1. # examples of communication between different components:
+    * Parent->Child
+    * Child->Parent
+    * Sibling
